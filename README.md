@@ -142,6 +142,10 @@
 
 Gemini 网页端对超长历史对话采用向上滚动懒加载机制。为保证零干扰与节点稳定性，本工具不会自动在页面中模拟滚动。如需导出超长对话的最早期轮次，请先在浏览器页面中手动向上滚动至顶部等待历史加载完毕，再运行本工具导出当前标签页。
 
+## 相关项目
+
+- [Antigravity Chat Exporter](https://github.com/Curelove/antigravity-chat-exporter)：将本机 Antigravity 对话导出为结构化 Markdown 文件的同系列 Windows 工具。
+
 ## 贡献与兼容性
 
 欢迎提交 Issue 或 Pull Request，以适配最新的 Gemini 网页端 DOM 结构。
